@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @joluijten
-- 👀 I’m interested in QB64 and MS-DOS BASIC dialects
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My first upload. An old school television test card, written in QB64.
+
+Press alt-enter to switch to full screen mode and repeat this to change aspect ratios and render methods.
 
 <!---
-joluijten/joluijten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+joluijten/Test-Card
 --->
